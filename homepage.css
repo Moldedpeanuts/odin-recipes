@@ -2,6 +2,11 @@ body {
     font-family: "Courier New", sans-serif;
 }
 
+h1 {
+    font-size: 40px;
+    font-weight: 800;
+}
+
 .recipe-link {
     font-size: 20px;
     font-weight: 700;
