@@ -12,3 +12,10 @@ h1 {
     height: 300px;
     width: 400px;
 }
+
+
+.titles {
+    background-color: rgb(200,50,45, 0.5);
+    color: white;
+}
+    
