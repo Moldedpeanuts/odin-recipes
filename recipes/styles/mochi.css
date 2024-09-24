@@ -1,3 +1,14 @@
 body {
     font-family: "Courier New", sans-serif;
 }
+
+h1 {
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.mochi-image {
+    height: 300px;
+    width: 400px;
+}
