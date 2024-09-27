@@ -12,3 +12,8 @@ h1 {
     height: 400px;
     width: 500px;
 }
+
+.titles {
+    background-color: rgb(200,50,45, 0.5);
+    color: white;
+}
