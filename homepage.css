@@ -10,12 +10,13 @@ body {
     font-family: "Courier New", sans-serif;
 }
 
-h1 {
+nav ul {
     font-size: 40px;
     font-weight: 800;
     background-color: rgb(200,50,45, 0.5);
     color: white;
     padding: 30px;
+    list-style-type: none;
 }
 
 .recipe-link {
