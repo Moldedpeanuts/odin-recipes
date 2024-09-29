@@ -9,7 +9,7 @@
 body {
     font-family: "Courier New", monospace, sans-serif;
     max-width: 80vw;
-    height: 100vh;
+    min-height: 100vh;
     margin: 0 auto;
 }
 
