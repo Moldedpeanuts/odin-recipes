@@ -13,12 +13,8 @@ body {
     margin: 0 auto;
 }
 
-ul li {
-    list-style-type: none;
-}
 
-
-nav ul {
+.nav-bar {
     font-size: 40px;
     font-weight: 400;
     background-color: rgb(200,50,45, 0.5);
@@ -27,7 +23,7 @@ nav ul {
     width: 100%;
 }
 
-nav ul li {
+.nav-bar ul li {
     display: inline-block;
 }
 
@@ -35,4 +31,8 @@ nav ul li {
 .recipe-link {
     font-size: 20px;
     font-weight: 700;
+}
+
+.recipes-list {
+    list-style-type: none;
 }
