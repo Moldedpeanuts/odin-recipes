@@ -13,13 +13,17 @@ body {
     margin: 0 auto;
 }
 
+ul li {
+    list-style-type: none;
+}
+
+
 nav ul {
     font-size: 40px;
     font-weight: 400;
     background-color: rgb(200,50,45, 0.5);
     color: white;
     padding: 30px;
-    list-style-type: none;
     width: 100%;
 }
 
