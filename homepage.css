@@ -15,12 +15,18 @@ body {
 
 nav ul {
     font-size: 40px;
-    font-weight: 800;
+    font-weight: 400;
     background-color: rgb(200,50,45, 0.5);
     color: white;
     padding: 30px;
     list-style-type: none;
+    width: 100%;
 }
+
+nav ul li {
+    display: inline-block;
+}
+
 
 .recipe-link {
     font-size: 20px;
