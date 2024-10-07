@@ -13,25 +13,26 @@ body {
     margin: 0 auto;
 }
 
+ul {
+    list-style-type: none;
+}
 
-.nav-bar {
+.header {
     font-size: 20px;
     font-weight: 600;
     background-color: #c8322d80;
     color: white;
     padding: 8px;
+}
+
+
+.nav-bar {
     display: flex;
     justify-content: space-evenly;
 }
 
-.nav-bar ul li {
-    display: inline-block;
-    margin-right: 70px;
-}
-
 
 .recipes-list {
-    list-style-type: none;
     font-size: 20px;
     font-weight: 300;
 }
