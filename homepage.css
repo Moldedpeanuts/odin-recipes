@@ -17,10 +17,9 @@ body {
 .nav-bar {
     font-size: 40px;
     font-weight: 600;
-    background-color: rgb(200, 50, 45, 0.5);
+    background-color: #c8322d80;
     color: white;
-    padding: 30px;
-    width: 100%;
+    padding: 8px;
 }
 
 .nav-bar ul li {
