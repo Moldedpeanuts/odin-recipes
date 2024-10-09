@@ -11,6 +11,8 @@ body {
     max-width: 80vw;
     min-height: 100vh;
     margin: 0 auto;
+    border: 0px solid rgb(210,210,210);
+    border-image: 0 stretch 100% none 1;
 }
 
 h1 {
