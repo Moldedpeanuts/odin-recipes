@@ -25,6 +25,10 @@ h1 {
     text-align: center;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .dumplings-image {
     height: 400px;
     width: 400px;
