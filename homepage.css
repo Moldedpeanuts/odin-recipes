@@ -19,6 +19,9 @@ body {
     text-size-adjust: 100%;
 }
 
+ul {
+    list-style-type: none;
+}
 
 .header {
     font-size: 20px;
@@ -29,7 +32,6 @@ body {
 }
 
 .navigation-list{
-    list-style-type: none;
     display: flex;
     justify-content: space-between;
     align-items: center;
