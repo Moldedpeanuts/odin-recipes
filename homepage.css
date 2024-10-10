@@ -25,6 +25,7 @@ ul {
 
 h1 {
     font-size: 1rem;
+    text-transform: uppercase;
 }
 
 .header {
@@ -43,6 +44,9 @@ h1 {
     gap: 20px;
 }
 
+.navigation-list li {
+    text-transform: uppercase;
+}
 
 .recipes-list {
     font-size: 20px;
