@@ -34,15 +34,16 @@ h1 {
     padding: 8px;
 }
 
-.navigation-list{
+.navigation-list {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 20px;
+    gap: 50px;
 }
 
 .navigation-list li {
     text-transform: uppercase;
+    font-weight: 800;
 }
 
 .recipes-list {
@@ -50,9 +51,11 @@ h1 {
     font-weight: 300;
 }
 
-#logo {
-    width: 200px;
-    height: 200px;
+.logo-container {
+    margin-right: auto;
 }
 
-
+#logo {
+    width: 300px;
+    height: 300px;
+}
