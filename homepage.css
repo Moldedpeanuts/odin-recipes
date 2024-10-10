@@ -19,9 +19,6 @@ body {
     text-size-adjust: 100%;
 }
 
-ul {
-    list-style-type: none;
-}
 
 .header {
     font-size: 20px;
@@ -34,6 +31,7 @@ ul {
 .navigation-list{
     display: flex;
     justify-content: space-evenly;
+    list-style-type: none;
 }
 
 
@@ -41,3 +39,4 @@ ul {
     font-size: 20px;
     font-weight: 300;
 }
+
