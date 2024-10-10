@@ -34,10 +34,15 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 32px 16px 16px;
+    gap: 20px;
 }
 
 
 .recipes-list {
     font-size: 20px;
     font-weight: 300;
+}
+
+.logo {
+    margin-right: auto;
 }
