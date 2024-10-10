@@ -33,10 +33,6 @@ h1 {
     height: 200px;
 }
 
-.header {
-    border-bottom: 1px solid rgb(210,210,210);
-}
-
 .navigation {
     display: flex;
     justify-content: space-between;
