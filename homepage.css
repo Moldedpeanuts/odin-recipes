@@ -28,7 +28,7 @@ h1 {
     text-transform: uppercase;
 }
 
-#logo {
+.logo {
     width: 200px;
     height: 200px;
 }
