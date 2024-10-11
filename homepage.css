@@ -36,10 +36,11 @@ h1 {
 .navigation {
     display: flex;
     border: 1px solid red;
-    justify-content: flex-start;
+    justify-content: space-between;
 }
 
 .navigation-list {
+    display: flex;
     
     gap: 52px;
     font-weight: 800;
