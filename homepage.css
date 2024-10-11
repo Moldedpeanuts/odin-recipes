@@ -35,7 +35,8 @@ h1 {
 
 .navigation {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    border: 1px solid red;
 }
 
 .navigation-list {
@@ -44,4 +45,5 @@ h1 {
     gap: 52px;
     font-weight: 800;
     font-size: 17px;
+    border: 1px solid red;
 }
