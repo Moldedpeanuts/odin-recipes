@@ -41,7 +41,8 @@ h1 {
 
 .navigation-list {
     display: flex;
-    
+    align-items: center;
+    padding: 12px;
     gap: 52px;
     font-weight: 800;
     font-size: 17px;
