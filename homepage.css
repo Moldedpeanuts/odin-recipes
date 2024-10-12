@@ -61,6 +61,15 @@ a {
     padding: 16px;
 }
 
+.categories-list {
+    display: flex;
+    
+}
+
+.categories-list li {
+    text-align: left;
+}
+
 .categories-images {
     height: 96px;
     width: 96px;
