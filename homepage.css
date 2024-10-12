@@ -56,3 +56,8 @@ h1 {
 a {
     text-decoration: none;
 }
+
+.categories-images {
+    height: 96px;
+    width: 96px;
+}
