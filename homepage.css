@@ -81,8 +81,8 @@ a {
     text-align: center;
 }
 
-.categories-icons {
+.categories-text {
     cursor: pointer;
     font-weight: 700;
-    v
+    text-transform: uppercase;
 }
