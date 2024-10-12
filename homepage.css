@@ -63,4 +63,5 @@ a {
     border-radius: 9999px;
     cursor: pointer;
     margin-bottom: 8px;
+    max-width: 100%;
 }
