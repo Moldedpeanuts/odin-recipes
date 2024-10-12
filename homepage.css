@@ -19,7 +19,7 @@ body {
     text-size-adjust: 100%;
 }
 
-ul {
+ul, ol {
     list-style-type: none;
 }
 
