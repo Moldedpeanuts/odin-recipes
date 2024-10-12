@@ -61,4 +61,5 @@ a {
     height: 96px;
     width: 96px;
     border-radius: 9999px;
+    cursor: pointer;
 }
