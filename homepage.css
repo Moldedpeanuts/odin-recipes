@@ -64,4 +64,5 @@ a {
     cursor: pointer;
     margin-bottom: 8px;
     max-width: 100%;
+    vertical-align: middle;
 }
