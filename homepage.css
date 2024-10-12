@@ -57,6 +57,10 @@ a {
     text-decoration: none;
 }
 
+.categories-container {
+    padding: 16px;
+}
+
 .categories-images {
     height: 96px;
     width: 96px;
