@@ -63,11 +63,11 @@ a {
 
 .categories-list {
     display: flex;
-    
+
 }
 
 .categories-list li {
-    text-align: left;
+    text-align: center;
 }
 
 .categories-images {
