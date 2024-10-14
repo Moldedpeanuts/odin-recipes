@@ -29,29 +29,18 @@ h1 {
     text-align: center;
 }
 
-.logo {
-    width: 200px;
-    height: 200px;
+
+.header {
+    text-transform: uppercase;
 }
 
-.navigation {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border: 0px solid red;
-}
 
-.navigation-list {
-    display: flex;
-    align-items: center;
-    padding: 12px;
-    gap: 52px;
-    font-weight: 800;
-    font-size: 17px;
-    margin-right: 40px;
-    border: 0px solid red;
-    cursor: pointer;
-}
+
+
+
+
+
+
 
 a {
     text-decoration: none;
