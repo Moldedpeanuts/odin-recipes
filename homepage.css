@@ -22,11 +22,14 @@ body {
 .header {
     text-transform: uppercase;
     border: 1px solid red;
+    font-size: 23px;
+    font-weight: 800;
 }
 
 .navigation {
     border: 1px solid red;
     display: flex;
+    justify-content: space-between;
 }
 
 
