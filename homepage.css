@@ -41,6 +41,7 @@ body {
 
 .navigation-list {
     border: 1px solid red;
+    display: flex;
 }
 
 ul, ol {
