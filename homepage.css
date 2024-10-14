@@ -29,20 +29,19 @@ body {
 .navigation {
     border: 1px solid red;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 
 
 .logo {
-    height: 200px;
-    width: 200px;
+    height: 170px;
+    width: 170px;
     border: 1px solid red;
 }
 
 .navigation-list {
     border: 1px solid red;
     display: flex;
-    justify-content: space-around;
     align-items: center;
     gap: 55px;
 }
