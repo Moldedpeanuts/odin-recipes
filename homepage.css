@@ -10,6 +10,9 @@ body {
     background-color: #1B263B;
     color: #F8F9FA;
     font-family: 'Lora', Georgia, serif;
+    max-width: 1200px; /* for larger screens */
+    width: 100%;
+    margin: 0 auto; 
 }
 
 .logo {
@@ -26,8 +29,6 @@ header {
 }
 
 .nav-bar {
-    max-width: 1200px;
-    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
