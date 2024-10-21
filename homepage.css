@@ -29,7 +29,7 @@ ul {
 }
 
 header {
-    padding: 0 20px 20px 20px;
+    padding: 0 20px;
 }
 
 .nav-bar {
@@ -63,5 +63,9 @@ h1 {
 
 .first-section {
     height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
