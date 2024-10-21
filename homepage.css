@@ -13,6 +13,7 @@ body {
     max-width: 1200px; /* for larger screens */
     width: 100%;
     margin: 0 auto; 
+    min-height: 100vh;
 }
 
 .logo {
