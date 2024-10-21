@@ -54,10 +54,11 @@ header {
 h1 {
     font-family: 'Josefin Sans' ,sans-serif;
     font-size: 2.5rem;
+    text-transform: uppercase;
 }
 
 .first-section p {
-    font-size: 1rem;
+    font-size: 1.2em;
     line-height: 1.6;
 }
 
