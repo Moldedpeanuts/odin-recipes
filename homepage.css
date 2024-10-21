@@ -21,6 +21,7 @@ body {
 .logo {
     width: 250px;
     height: 250px;
+    cursor: pointer;
 }
 
 ul {
@@ -42,4 +43,5 @@ header {
     text-transform: uppercase;
     display: flex;
     gap: 30px;
+    cursor: pointer;
 }
