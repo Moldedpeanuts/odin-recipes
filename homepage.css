@@ -45,3 +45,8 @@ header {
     gap: 30px;
     cursor: pointer;
 }
+
+.blog-author {
+    width: 400px;
+    height: 600px;
+}
