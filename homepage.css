@@ -40,4 +40,6 @@ header {
 .link-list {
     font-size: 1rem;
     text-transform: uppercase;
+    display: flex;
+    gap: 30px;
 }
