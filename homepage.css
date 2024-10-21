@@ -60,3 +60,10 @@ h1 {
     font-size: 1rem;
     line-height: 1.6;
 }
+
+.first-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
