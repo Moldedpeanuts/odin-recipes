@@ -36,3 +36,7 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+
+.link-list {
+    font-size: 1rem;
+}
