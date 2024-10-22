@@ -48,10 +48,6 @@ header {
     cursor: pointer;
 }
 
-.blog-author {
-    width: 400px;
-    height: 600px;
-}
 
 h1 {
     font-family: 'Josefin Sans' ,sans-serif;
@@ -70,7 +66,14 @@ h1 {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-image: url(./images/hero-section.jpg);
+    background-size: cover;
+    padding: 30px;
+    margin-bottom: 50px;
+    margin-top: -50px;
+    height: 450px;
 }
+    
 
 .title {
     display: flex;
@@ -80,11 +83,8 @@ h1 {
     gap: 30px;
 }
 
-.hero-section {
-    background-image: url(./images/hero-section.jpg);
-    background-size: cover;
-    padding: 30px;
-    margin-bottom: 50px;
-    margin-top: -50px;
-    height: 450px;
+.blog-author {
+    width: 400px;
+    height: 600px;
 }
+
