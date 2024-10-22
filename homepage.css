@@ -83,4 +83,6 @@ h1 {
 .hero-section {
     background-image: url(./images/hero-section.jpg);
     background-size: cover;
+    padding: 30px;
+    margin-bottom: 30px;
 }
