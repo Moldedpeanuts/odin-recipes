@@ -88,3 +88,11 @@ h1 {
     height: 600px;
 }
 
+.author-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
