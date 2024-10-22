@@ -92,5 +92,11 @@ h1 {
     width: 70%;
 }
 
+.author-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 
