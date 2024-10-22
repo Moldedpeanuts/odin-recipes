@@ -65,7 +65,7 @@ h1 {
 .hero-section {
     height: 40vh;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
 }
