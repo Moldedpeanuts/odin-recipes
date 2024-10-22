@@ -113,6 +113,9 @@ h1 {
     align-self: flex-start;
     padding: 12px 22px;
     cursor: pointer;
+    background-color: #5A6784;
+    color: #F8F9FA;
+    border: 2px solid #49536D;
 }
 
 .author-name {
@@ -125,6 +128,7 @@ h1 {
     font-size: 1.5em;
     font-weight: 600;
 }
+
 
 
 
