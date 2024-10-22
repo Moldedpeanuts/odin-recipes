@@ -78,3 +78,7 @@ h1 {
     gap: 30px;
 }
 
+.hero-section {
+    background-image: url(./images/hero-section.jpg);
+    background-size: cover;
+}
