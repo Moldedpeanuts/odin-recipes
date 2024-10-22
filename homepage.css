@@ -30,12 +30,14 @@ ul {
 
 header {
     padding: 0 20px;
+    height: 200px;
 }
 
 .nav-bar {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 100px;
 }
 
 .link-list {
