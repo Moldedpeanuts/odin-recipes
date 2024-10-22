@@ -91,6 +91,7 @@ h1 {
 
 .author-wrap {
     display: flex;
+    justify-content: space-around;
     gap: 60px;
 }
 
