@@ -89,7 +89,8 @@ h1 {
 }
 
 .author-wrap {
-    width: 90%;
+    display: flex;
+    gap: 60px;
 }
 
 .author-section {
