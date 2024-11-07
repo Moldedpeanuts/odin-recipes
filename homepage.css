@@ -156,3 +156,7 @@ h1 {
     height: 250px;
     object-fit: cover;
 }
+
+.categories {
+    display: flex;
+}
