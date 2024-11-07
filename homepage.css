@@ -159,4 +159,6 @@ h1 {
 
 .categories {
     display: flex;
+    gap: 33px;
+    margin-top: 40px;
 }
