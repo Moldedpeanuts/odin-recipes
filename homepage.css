@@ -171,4 +171,13 @@ h1 {
     justify-content: center;
 }
 
+.recipe-index {
+    color: #F8F9FA;
+    background-color: #5A6784;
+    border: 2px solid #49536D;
+    font-size: 22px;
+    padding: 17px 44px;
+    cursor: pointer;
+}
+
 
