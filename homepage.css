@@ -178,6 +178,8 @@ h1 {
     font-size: 22px;
     padding: 17px 44px;
     cursor: pointer;
+    display: block;
+    margin: 0 auto;
 }
 
 
