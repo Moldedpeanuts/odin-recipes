@@ -56,3 +56,17 @@ odin-recipes/
 └── images/           # Recipe and site images
 ```
 
+## Future Improvements
+- **Add JavaScript**: Implement dynamic recipe loading. Interactive features like recipe ratings, comment sections, and timers.
+- **Expand Recipe Database**: Add dozens of authentic Nordic recipes with rich content.
+- **Backend Integration**: Add a CMS (Content Management System) for easier updates (e.g., Strapi, Sanity). Create user accounts for saving favorite recipes.
+- **SEO Optimization**: Improve meta tags, accessibility and social sharing previews.
+- **Deployment**: Host the project online (Netlify, Vercel, or GitHub Pages).
+
+
+
+## Acknowledgements
+
+- The Odin Project for guidance on learning web development fundamentals.
+
+- Unsplash / Pexels for free images.
